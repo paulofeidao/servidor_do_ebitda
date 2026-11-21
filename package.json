@@ -1,9 +1,8 @@
-
 {
   "name": "ebitda-software-backend",
   "version": "1.0.0",
   "private": true,
-  "description": "Servidor backend do EBITDA SOFTWARE para comunicação segura com APIs externas.",
+  "description": "Servidor backend do EBITDA SOFTWARE com integração de APIs externas e monitorização RSS de notícias.",
   "main": "src/server.js",
   "type": "module",
   "scripts": {
